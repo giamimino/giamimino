@@ -36,7 +36,7 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giamimino)
 
 ### 🔥Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=github-compact)
 
 ### 🏆GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giamimino&theme=radical)
