@@ -30,9 +30,17 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 
 ## Github Stats 📊
 
-![](https://github-readme-stats.vercel.app/api?username=giamimino&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### GitHub Stats
+![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamimino&show_icons=true&theme=radical)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&layout=compact&theme=radical)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=radical)
+
+### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giamimino&theme=radical)
 
 ## Job 💵
 
