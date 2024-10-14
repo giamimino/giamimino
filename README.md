@@ -1,6 +1,6 @@
 # 👋Hi there!
 
-Hello, I'm Gia Miminoshvili Front end Developer. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced Junior Developer. For more information contact to Gmail: miminoshvili2102@gmail.com
+Hello, I'm <strong>Gia</strong> Miminoshvili <strong>Front end Developer</strong>. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced <strong>Junior Developer</strong>. For more information contact to Gmail: miminoshvili2102@gmail.com
 
 ## Social 🌐
 
