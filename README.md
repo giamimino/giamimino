@@ -9,7 +9,6 @@ Hello, I'm Gia Miminoshvili Front end Developer. I can make beautiful and functi
 [![TikTok](https://img.shields.io/badge/Tik%20Tok-%230000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@shurdula2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/gia-miminoshvili-2a89642aa)
 
----
 ## Skills 🎓
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,4 +44,4 @@ I haven't job yet
 
 ---
 
-![https://visitcount.itsvg.in/api?id=giorgi452&label=Profile%20Views&icon=5&pretty=true](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=giorgi452&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
