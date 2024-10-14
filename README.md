@@ -26,44 +26,29 @@ Hello, I'm <strong>Gia</strong> Miminoshvili <strong>Front end Developer</strong
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-I am always eager to learn new technologies and techniques 🤓. Feel free to connect with me and let's build amazing projects together 🚀.
+I am always eager to learn new technologies and techniques 🤓. Feel free to connect with me and let's build amazing <b>projects together</b> 🚀.
+<details>
+<summary><h1>📊 Stats and Activity</h1></summary>
 
-## Github Stats 📊
-
-### GitHub Stats
+## 💻Github Stats
 ![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamimino&show_icons=true&theme=radical)
-
-### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giamimino)
 
-### Contribution Streak
+### 🔥Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=radical)
 
-### GitHub Trophies
+### 🏆GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giamimino&theme=radical)
+</details>
 
 ## Job 💵
 
-I haven't job yet
+<b>I haven't job yet</b>
 
 ## Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## GitHub Stats
-![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamimino&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&layout=compact&theme=radical)
-
-## Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=radical)
-
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giamimino&theme=radical)
-
 
 ---
 
