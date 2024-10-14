@@ -44,4 +44,19 @@ I haven't job yet
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=giorgi452&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+## GitHub Stats
+![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgi452&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi452&layout=compact&theme=radical)
+
+## Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgi452&theme=radical)
+
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giorgi452&theme=radical)
+
+
+---
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=giamimino&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
