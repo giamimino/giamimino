@@ -57,4 +57,5 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 
 ## 💸 Donate
 
-[![Donate](https://img.shields.io/badge/Donate-%23FF4500.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/devbytes486)
+[![Patreon](https://img.shields.io/badge/Patreon-%23FF4500.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/devbytes486)
+[![PayPal](https://img.shields.io/badge/PayPal-%23045C73.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/giamiminoshvili)
