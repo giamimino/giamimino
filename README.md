@@ -33,10 +33,10 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 ## 💻Github Stats
 ![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamimino&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&layout=compact&theme=radical)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giamimino)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giamimino&theme=github-compact)
 
 ### 🔥Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=github-compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=radical)
 
 ### 🏆GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giamimino&theme=radical)
