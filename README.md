@@ -45,16 +45,16 @@ I haven't job yet
 ---
 
 ## GitHub Stats
-![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgi452&show_icons=true&theme=radical)
+![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamimino&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgi452&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&layout=compact&theme=radical)
 
 ## Contribution Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgi452&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giamimino&theme=radical)
 
 ## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giorgi452&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=giamimino&theme=radical)
 
 
 ---
