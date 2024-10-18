@@ -59,5 +59,6 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 
 [![Patreon](https://img.shields.io/badge/Patreon-%23FF4500.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/devbytes486)
 [![PayPal](https://img.shields.io/badge/PayPal-%23045C73.svg?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/giamiminoshvili)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/TechWizard_404/e/319607)
+[![JustGiving](https://img.shields.io/badge/JustGiving-AD29B6?style=for-the-badge&logo=justgiving&logoColor=white)](https://www.justgiving.com/page/gia-miminoshvili-1729277207047)
+
 
