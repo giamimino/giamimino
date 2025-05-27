@@ -6,7 +6,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giamiminoshvili/)
 [![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gia.miminoshvili.92)
-[![TikTok](https://img.shields.io/badge/Tik%20Tok-%230000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@shurdula2)
+[![TikTok](https://img.shields.io/badge/Tik%20Tok-%230000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@beberi_developeri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/gia-miminoshvili-2a89642aa)
 
 ## 🎓 Skills
