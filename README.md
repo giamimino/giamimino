@@ -2,12 +2,21 @@
 
 <b>Hello</b>, I'm <strong>Gia</strong> Miminoshvili <strong>Front end Developer</strong>. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced <strong>Junior Developer</strong>. For more information contact to Gmail: miminoshvili2102@gmail.com
 
-## 🌐 Social
+## 📞 Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giamiminoshvili/)
-[![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gia.miminoshvili.92)
-[![TikTok](https://img.shields.io/badge/Tik%20Tok-%230000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@beberi_developeri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/gia-miminoshvili-2a89642aa)
+If you have any questions, suggestions, or just want to say hello, feel free to reach out!
+
+**Email:** [miminoshvili2102@gmail.com](mailto:miminoshvili2102@gmail.com)  
+**Phone:** [+995 511 21 20 91](tel:+995511212091)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/giamimino)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gia-miminoshvili-2a89642aa/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Dev103116)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giamiminoshvili/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gia.miminoshvili.92)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@DevByGia)  
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@beberi_developeri)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1178428125529505863)
+
 
 ## 🎓 Skills
 
@@ -46,7 +55,9 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 ![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamimino&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&layout=compact&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giamimino&theme=github-compact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giamimino&repo=marketing-landing-page&theme=radical)
+
+## 📦Top Repositories
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giamimino&repo=portfolio-v2&theme=radical)
 
 
 
