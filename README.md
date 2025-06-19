@@ -6,16 +6,36 @@
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out!
 
-**Email:** [miminoshvili2102@gmail.com](mailto:miminoshvili2102@gmail.com)  
-**Phone:** [+995 511 21 20 91](tel:+995511212091)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/giamimino)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gia-miminoshvili-2a89642aa/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/Dev103116)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/giamiminoshvili/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/gia.miminoshvili.92)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@DevByGia)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@beberi_developeri)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1178428125529505863)
+<p><strong>Email:</strong> <a href="mailto:miminoshvili2102@gmail.com">miminoshvili2102@gmail.com</a></p>
+<p><strong>Phone:</strong> <a href="tel:+995511212091">+995 511 21 20 91</a></p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <a href="https://github.com/giamimino">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/gia-miminoshvili-2a89642aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/Dev103116">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/giamiminoshvili/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/gia.miminoshvili.92">
+    <img src="https://img.shields.io/badge/Facebook-%230866FF.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.youtube.com/@DevByGia">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://www.tiktok.com/@beberi_developeri">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://discord.com/users/1178428125529505863">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
 
 
 ## 🎓 Skills
