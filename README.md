@@ -46,8 +46,7 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 ![Gia Miminoshvili's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamimino&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giamimino&layout=compact&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=giamimino&theme=github-compact)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giamimino&repo=your-repo-name)
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=giamimino&count_private=true&show_icons=true&hide=contribs)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=giamimino&repo=marketing-landing-page&theme=radical)
 
 
 
@@ -68,8 +67,7 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=giamimino&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=giamimino.repoName)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=giamimino.repoName)
 
 
 ## 💸 Donate
