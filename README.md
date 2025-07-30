@@ -64,6 +64,9 @@ If you have any questions, suggestions, or just want to say hello, feel free to 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash-00DC82?style=for-the-badge&logo=upstash&logoColor=white)
+
 
 
 
