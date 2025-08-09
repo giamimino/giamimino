@@ -103,20 +103,6 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=giamimino.repoName)
 
-<button id="downloadCV">Download CV</button>
-
-<script>
-document.getElementById('downloadCV').addEventListener('click', function() {
-    const fileUrl = 'https://raw.githubusercontent.com/username/my-cv-repo/main/CV.pdf';
-    const a = document.createElement('a');
-    a.href = fileUrl;
-    a.download = 'Gia_Miminoshvili_CV.pdf';
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-});
-</script>
-
 
 ## 💸 Donate
 
