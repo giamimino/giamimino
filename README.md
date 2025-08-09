@@ -100,7 +100,9 @@ I am always eager to learn new technologies and techniques 🤓. Feel free to co
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+<a href="https://github.com/giamimino/CV/blob/main/gia_miminoshvili_CV.pdf" download="Gia_Miminoshvili_CV.pdf">
+  <button>Download CV</button>
+</a>
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=giamimino.repoName)
 
 
